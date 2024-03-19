@@ -53,4 +53,10 @@ The trained model achieved an accuracy of 86.67% on the test dataset.
 https://github.com/MohsenMaaleki/Incident-Response-Fairness-Analysis/assets/95247257/e8d0e662-6ae1-4b2f-8351-d989f023775c
 
 
+## Kaggle Link
 
+For further exploration and analysis, you can access the dataset and related notebooks on Kaggle.
+
+[![Kaggle](https://www.kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/datasets/vipulshinde/incident-response-log)
+
+Click the Kaggle logo above to access the dataset on Kaggle.
